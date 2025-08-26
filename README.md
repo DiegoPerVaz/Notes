@@ -6,3 +6,4 @@ https://github.com/True-North-Intelligent-Algorithms/tnia-python/blob/main/noteb
 https://imagej.net/plugins/tubeness
 https://hms-iac.github.io/bobiac/content/02_getting_started_with_python/getting_started_with_python.html#slides
 https://www.biorxiv.org/content/10.1101/2025.04.09.647871v1.full.pdf
+https://www.optinav.info/LocalThicknessEd.pdf
